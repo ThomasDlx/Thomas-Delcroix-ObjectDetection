@@ -1,0 +1,5 @@
+D:\La catho\Cours M2\S3\Microsoft tech\exam\2023689295\Thomas.Delcroix.ObjectDetection\Thomas.Delcroix.ObjectDetection\obj\Debug\net8.0\Thomas.Delcroix.ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\La catho\Cours M2\S3\Microsoft tech\exam\2023689295\Thomas.Delcroix.ObjectDetection\Thomas.Delcroix.ObjectDetection\obj\Debug\net8.0\Thomas.Delcroix.ObjectDetection.AssemblyInfoInputs.cache
+D:\La catho\Cours M2\S3\Microsoft tech\exam\2023689295\Thomas.Delcroix.ObjectDetection\Thomas.Delcroix.ObjectDetection\obj\Debug\net8.0\Thomas.Delcroix.ObjectDetection.AssemblyInfo.cs
+D:\La catho\Cours M2\S3\Microsoft tech\exam\2023689295\Thomas.Delcroix.ObjectDetection\Thomas.Delcroix.ObjectDetection\obj\Debug\net8.0\Thomas.Delcroix.ObjectDetection.csproj.CoreCompileInputs.cache
+D:\La catho\Cours M2\S3\Microsoft tech\exam\2023689295\Thomas.Delcroix.ObjectDetection\Thomas.Delcroix.ObjectDetection\obj\Debug\net8.0\Thomas.Delcroix.ObjectDetection.csproj.AssemblyReference.cache
