@@ -11,8 +11,8 @@ namespace Thomas.Delcroix.ObjectDetection.Console
         {
             var objectDetection = new ObjectDetection();
             var imagesSceneData = new List<byte[]>();
-            imagesSceneData.Add(await File.ReadAllBytesAsync("image1.jpg"));
-            imagesSceneData.Add(await File.ReadAllBytesAsync("image2.jpg"));
+            imagesSceneData.Add(await File.ReadAllBytesAsync("./Thomas.Delcroix.ObjectDetection/Thomas-Delcroix-scene-0.jpg"));
+            imagesSceneData.Add(await File.ReadAllBytesAsync("./Thomas.Delcroix.ObjectDetection/Thomas-Delcroix-scene-1.jpg"));
 
             var results = await objectDetection.DetectObjectInScenesAsync(imagesSceneData);
 
